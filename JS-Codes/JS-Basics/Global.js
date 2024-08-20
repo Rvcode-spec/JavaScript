@@ -1,0 +1,1 @@
+// Global Value is call function 
