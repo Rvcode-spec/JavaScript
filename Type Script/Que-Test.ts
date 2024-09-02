@@ -5,3 +5,8 @@ console.log("Ravi Shankar Singh "); // Send the JS File
     console.log(num);
     
 }
+
+var a=5, b=5;
+var sum = a+b;
+console.log(sum);
+
