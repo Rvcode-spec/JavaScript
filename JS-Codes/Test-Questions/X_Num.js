@@ -1,4 +1,4 @@
-let arr="9871585013";
+let arr="098715657";
 let ans = "";
 for(let i=0; i<arr.length; i++){
     let nms=Number(arr[i])
@@ -8,7 +8,5 @@ for(let i=0; i<arr.length; i++){
     }else{
         ans+=nms;
     }
-   
-    
 }
 console.log(ans);
