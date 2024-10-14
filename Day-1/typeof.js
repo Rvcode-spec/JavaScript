@@ -23,4 +23,5 @@ console.log(typeof cars);
 const date = new Date("2022-03-25");
 console.log(typeof data);
 
-
+const date1 = new Date("2022-03-25");
+console.log(typeof data1);
