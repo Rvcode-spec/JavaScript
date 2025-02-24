@@ -1,9 +1,0 @@
-Why should you learn JavaScript?
-
-• Setting up your environment
-• How does the browser understand JavaScript?
-Getting Started with JavaScript
-[ 2 ]
-• Using the browser console
-• Adding JavaScript to a web page
-• Writing JavaScript code
