@@ -1,0 +1,30 @@
+/*
+
+The preventDefault() method
+ prevents the default action of an event without stopping the event propagation.
+
+*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>preventDefault Example</title>
+</head>
+<body>
+
+    <form id="myForm">
+        <input type="text" placeholder="Enter something">
+        <button type="submit">Submit</button>
+    </form>
+
+    <script>
+        document.getElementById("myForm").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevents form submission
+            alert("Form submission prevented!");
+        });
+    </script>
+
+</body>
+</html>
