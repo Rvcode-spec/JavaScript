@@ -26,3 +26,13 @@ If a Promise rejects, we handle it using .catch():
 
 The .finally() 
 block always runs whether the Promise is resolved or rejected:
+
+
+JavaScript async & await – The Modern Way to Handle Promises 🚀
+async and await make working with Promises easier 
+and more readable by removing .then() chains and 
+allowing you to write asynchronous code in a synchronous style.
+
+1️⃣ Basic Syntax
+async → Declares a function that returns a Promise.
+await → Waits for the Promise to resolve (can only be used inside an async function).
