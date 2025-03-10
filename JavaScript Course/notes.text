@@ -36,3 +36,11 @@ allowing you to write asynchronous code in a synchronous style.
 1️⃣ Basic Syntax
 async → Declares a function that returns a Promise.
 await → Waits for the Promise to resolve (can only be used inside an async function).
+
+
+setInterval() vs setTimeout() Recursion
+Both can be used for repeated execution, but recursion provides better control.
+
+JavaScript fetch() – Making API Requests 🚀
+The fetch() function is used to make HTTP requests in JavaScript. 
+It is asynchronous and returns a Promise, making it ideal for fetching data from APIs.
