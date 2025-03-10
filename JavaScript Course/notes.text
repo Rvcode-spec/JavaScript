@@ -7,3 +7,22 @@ Asynchronous Operations: Callbacks are
 commonly used in asynchronous JavaScript (e.g., handling API requests, reading files, or timers).
 Event Handling: Used in DOM event listeners.
 Code Reusability: Allows passing different functions dynamically.
+
+JavaScript Promises with .then()
+A Promise in JavaScript is used to 
+handle asynchronous operations. It represents 
+a value that might be available now, in the future, or never.
+
+Promise States
+Pending → Initial state (waiting for result)
+Fulfilled → Operation completed successfully
+Rejected → Operation failed
+
+Using .then()
+.then() is used to handle the fulfilled state of a Promise.
+
+Handling Errors with .catch()
+If a Promise rejects, we handle it using .catch():
+
+The .finally() 
+block always runs whether the Promise is resolved or rejected:
