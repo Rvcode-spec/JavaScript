@@ -46,3 +46,5 @@ The fetch() function is used to make HTTP requests in JavaScript.
 It is asynchronous and returns a Promise, making it ideal for fetching data from APIs.
 
 1 to 7 done 
+
+await and promise & 
