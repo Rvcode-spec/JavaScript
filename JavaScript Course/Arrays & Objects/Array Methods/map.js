@@ -36,5 +36,5 @@
         
         const words = ["Hello Ravi "]
         const upper = words.map(words=>words.toUpperCase());
-        console.log(upper);
+        console.log(Lopper);
         
